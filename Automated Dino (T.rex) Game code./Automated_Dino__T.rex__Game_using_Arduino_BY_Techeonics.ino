@@ -36,9 +36,3 @@ void loop() {
                       
  }                     
 }
-
-
-
-
-
- diyelectronics      
